@@ -1,3 +1,3 @@
 locals {
-    lambda = true
+    lambda = false
 }
